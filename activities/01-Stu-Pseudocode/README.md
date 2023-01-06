@@ -10,6 +10,15 @@
 
 * Be prepared to share your outlines approach.
 
+# Pseudocode
+
+Create a variable equal to a prompt asking for rock paper or scissors
+
+create a varibale that randomly selects rock paper or scissors
+
+create an if-else statement that checks whether the prompted answer or the random answer has won with an alert displaying the result
+
+
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
